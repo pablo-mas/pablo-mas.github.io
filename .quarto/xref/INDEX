@@ -10,5 +10,32 @@
   },
   "posts.qmd": {
     "posts.html": "b0d78c14"
+  },
+  "posts/test-blog/index.qmd": {
+    "index.html": "038052c5"
+  },
+  "posts/2023-02-13-short-post-test/index.qmd": {
+    "index.html": "1e1e28d8"
+  },
+  "posts/2023-02-13-test-post/index.qmd": {
+    "index.html": "74dbfa4b"
+  },
+  "projects.qmd": {
+    "projects.html": "0163e935"
+  },
+  "projects/projects-1/index.qmd": {
+    "index.html": "a1f1b6d4"
+  },
+  "projects/drug-protein-challenge/index.qmd": {
+    "index.html": "3f2be37a"
+  },
+  "projects/dreem-kaggle/index.qmd": {
+    "index.html": "3e4cd6a4"
+  },
+  "projects/neural-art/index.qmd": {
+    "index.html": "86fd9aeb"
+  },
+  "projects/graph-topology/index.qmd": {
+    "index.html": "0fe328f8"
   }
 }

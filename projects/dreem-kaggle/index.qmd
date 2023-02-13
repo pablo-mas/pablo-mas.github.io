@@ -1,0 +1,14 @@
+---
+title: "Kaggle challenge : Dreem"
+description: "Deep learning for sleep stage scoring on EEG signals"
+author:
+  - name: Pablo Mas
+    url: https://pablo-mas.github.io/
+    # orcid: 0000-0002-5300-3075
+    affiliation: Master student at BME Paris (Bioengineering and Innovation in Neuroscience track)
+date: 11-17-2021
+categories: [Python, Courses, Kaggle] # self-defined categories
+image: eeg.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+

@@ -1,6 +1,17 @@
 [
   {
     "listing": "/posts.html",
-    "items": []
+    "items": [
+      "/posts/2023-02-13-test-post/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/drug-protein-challenge/index.html",
+      "/projects/neural-art/index.html",
+      "/projects/graph-topology/index.html",
+      "/projects/dreem-kaggle/index.html"
+    ]
   }
 ]

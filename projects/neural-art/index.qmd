@@ -1,0 +1,17 @@
+---
+title: "This is a test"
+description: "First blog test"
+author:
+  - name: Pablo Mas
+    url: https://samanthacsik.github.io/
+    # orcid: 0000-0002-5300-3075
+    affiliation: PhD candidate at ENS Ulm and Sanofi
+    affiliation-url: https://ucsb-meds.github.io/ 
+date: 02-14-2023
+categories: [Python] # self-defined categories
+citation: 
+  url: https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/ 
+image: 500x500.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
