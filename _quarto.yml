@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "pablomas"
+  title: "Pablo Mas"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - cv.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    mainfont: roboto
     css: styles.css
     toc: true
 

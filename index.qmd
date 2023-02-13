@@ -1,6 +1,30 @@
 ---
-title: "pablomas"
+title: "Pablo Mas"
+image: profile.png
+resources: cv.pdf
+about:
+    template: jolla
+    image-shape: round
+    image-width: 12em
+    links:
+        -   text: Email
+            icon: envelope
+            href: mailto:pablovn.mas@gmail.com
+        -   text: GitHub
+            icon: github
+            href: https://github.com/pablo-mas
+        -   text: LinkedIn
+            icon: linkedin
+            href: https://www.linkedin.com/in/pablo-mas/
+        -   text: Twitter
+            icon: twitter
+            href: https://twitter.com/pablomasvn
+        -   text: CV
+            icon: file-text
+            href: cv.pdf
+    id: ppc
+
 ---
 
-This is a Quarto website.
+Site under construction
 
