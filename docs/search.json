@@ -11,7 +11,7 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "This is a test\n\n\n\nPython\n\n\n\nFirst blog test\n\n\n\nPablo Mas\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "posts/test-blog/index.html",
@@ -21,50 +21,15 @@
     "text": "CitationBibTeX citation:@online{csik2022,\n  author = {Samantha Csik},\n  title = {Blog Post Title},\n  date = {2022-10-24},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSamantha Csik. 2022. “Blog Post Title.” October 24, 2022.\nhttps://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
   },
   {
-    "objectID": "posts/2023-02-13-test-post/index.html",
-    "href": "posts/2023-02-13-test-post/index.html",
-    "title": "This is a test",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{mas2023,\n  author = {Pablo Mas},\n  title = {This Is a Test},\n  date = {2023-02-14},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPablo Mas. 2023. “This Is a Test.” February 14, 2023. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This is a test\n\n\n\nPython\n\n\n\nFirst blog test\n\n\n\nPablo Mas\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a test\n\n\n\nPython\n\n\n\nFirst blog test\n\n\n\nPablo Mas\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a test\n\n\n\nPython\n\n\n\nFirst blog test\n\n\n\nPablo Mas\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKaggle challenge : Dreem\n\n\n\nPython\n\n\nCourses\n\n\nKaggle\n\n\n\nDeep learning for sleep stage scoring on EEG signals\n\n\n\nPablo Mas\n\n\nNov 17, 2021\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "projects/projects-1/index.html",
     "href": "projects/projects-1/index.html",
-    "title": "This is a test",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{mas2023,\n  author = {Pablo Mas},\n  title = {This Is a Test},\n  date = {2023-02-14},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPablo Mas. 2023. “This Is a Test.” February 14, 2023. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
-  },
-  {
-    "objectID": "projects/drug-protein-challenge/index.html",
-    "href": "projects/drug-protein-challenge/index.html",
-    "title": "This is a test",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{mas2023,\n  author = {Pablo Mas},\n  title = {This Is a Test},\n  date = {2023-02-14},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPablo Mas. 2023. “This Is a Test.” February 14, 2023. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
-  },
-  {
-    "objectID": "projects/dreem-kaggle/index.html",
-    "href": "projects/dreem-kaggle/index.html",
-    "title": "Kaggle challenge : Dreem",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{mas2021,\n  author = {Pablo Mas},\n  title = {Kaggle Challenge : {Dreem}},\n  date = {2021-11-17},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPablo Mas. 2021. “Kaggle Challenge : Dreem.” November 17,\n2021. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
-  },
-  {
-    "objectID": "projects/neural-art/index.html",
-    "href": "projects/neural-art/index.html",
-    "title": "This is a test",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{mas2023,\n  author = {Pablo Mas},\n  title = {This Is a Test},\n  date = {2023-02-14},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPablo Mas. 2023. “This Is a Test.” February 14, 2023. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
-  },
-  {
-    "objectID": "projects/graph-topology/index.html",
-    "href": "projects/graph-topology/index.html",
     "title": "This is a test",
     "section": "",
     "text": "CitationBibTeX citation:@online{mas2023,\n  author = {Pablo Mas},\n  title = {This Is a Test},\n  date = {2023-02-14},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPablo Mas. 2023. “This Is a Test.” February 14, 2023. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
