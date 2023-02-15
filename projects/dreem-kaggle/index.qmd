@@ -9,6 +9,6 @@ author:
 date: 11-17-2021
 categories: [Python, Courses, Kaggle] # self-defined categories
 image: eeg.png
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
