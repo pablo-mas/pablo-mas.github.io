@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "No matching items"
+    "text": "Neural Art\n\n\n\nPython\n\n\nDeep Learning\n\n\n\nCNN for painting’s art style classification\n\n\n\nPablo Mas\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWSI morphological and graph topological features extraction\n\n\n\nPython\n\n\n\nExtract morphological features from WSI, compute the associated Delaunay graph and extract topological features from it. Presented at SPIE Medical Image 2023 conference.\n\n\n\nPablo Mas\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKaggle challenge : Dreem\n\n\n\nPython\n\n\nCourses\n\n\nKaggle\n\n\n\nDeep learning for sleep stage scoring on EEG signals\n\n\n\nPablo Mas\n\n\nNov 17, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProtein classification using RNN\n\n\n\nPython\n\n\nCourses\n\n\nDeep Learning\n\n\n\nProtein classification using a biLSTM neural network\n\n\n\nPablo Mas\n\n\nApr 30, 2021\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/projects-1/index.html",

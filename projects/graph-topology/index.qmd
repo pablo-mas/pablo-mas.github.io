@@ -1,17 +1,14 @@
 ---
-title: "This is a test"
-description: "First blog test"
+title: "WSI morphological and graph topological features extraction"
+description: "Extract morphological features from WSI, compute the associated Delaunay graph and extract topological features from it. Presented at SPIE Medical Image 2023 conference."
 author:
   - name: Pablo Mas
-    url: https://samanthacsik.github.io/
+    url: https://github.com/stratifIAD/graph_topology
     # orcid: 0000-0002-5300-3075
-    affiliation: PhD candidate at ENS Ulm and Sanofi
-    affiliation-url: https://ucsb-meds.github.io/ 
+    affiliation: Research intern at Inria / ICM
 date: 02-14-2023
 categories: [Python] # self-defined categories
-citation: 
-  url: https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/ 
-image: 500x500.png
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+image: graph-topology.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

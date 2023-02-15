@@ -1,0 +1,14 @@
+---
+title: "Protein classification using RNN"
+description: "Protein classification using a biLSTM neural network"
+author:
+  - name: Pablo Mas
+    url: https://github.com/pablo-mas/protein-classification
+    # orcid: 0000-0002-5300-3075
+    affiliation: MSc at ESPCI Paris 
+date: 04-30-2021
+categories: [Python, Courses, Deep Learning] # self-defined categories
+image: protein-classification.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+

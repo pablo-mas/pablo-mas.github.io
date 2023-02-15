@@ -5,6 +5,11 @@
   },
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/neural-art/index.html",
+      "/projects/graph-topology/index.html",
+      "/projects/dreem-kaggle/index.html",
+      "/projects/protein-classification/index.html"
+    ]
   }
 ]

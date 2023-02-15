@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -135,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Courses">Courses <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Deep Learning">Deep Learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Kaggle">Kaggle <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Python">Python <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -162,7 +162,141 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-
+<div class="g-col-1" data-index="0" data-categories="Python,Deep Learning" data-listing-date-sort="1676329200000" data-listing-file-modified-sort="1676488311365" data-listing-reading-time-sort="0.005">
+<a href="./projects/neural-art/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/neural-art/neural-art.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Neural Art
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
+Python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Deep Learning'); return false;">
+Deep Learning
+</div>
+</div>
+<div class="card-text listing-description">
+CNN for painting’s art style classification
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Pablo Mas
+</div>
+<div class="listing-date">
+Feb 14, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Python" data-listing-date-sort="1676329200000" data-listing-file-modified-sort="1676488697685" data-listing-reading-time-sort="0.005">
+<a href="./projects/graph-topology/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/graph-topology/graph-topology.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+WSI morphological and graph topological features extraction
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
+Python
+</div>
+</div>
+<div class="card-text listing-description">
+Extract morphological features from WSI, compute the associated Delaunay graph and extract topological features from it. Presented at SPIE Medical Image 2023 conference.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Pablo Mas
+</div>
+<div class="listing-date">
+Feb 14, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Python,Courses,Kaggle" data-listing-date-sort="1637103600000" data-listing-file-modified-sort="1676487783485" data-listing-reading-time-sort="0.005">
+<a href="./projects/dreem-kaggle/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/dreem-kaggle/eeg.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kaggle challenge : Dreem
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
+Python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Courses'); return false;">
+Courses
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Kaggle'); return false;">
+Kaggle
+</div>
+</div>
+<div class="card-text listing-description">
+Deep learning for sleep stage scoring on EEG signals
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Pablo Mas
+</div>
+<div class="listing-date">
+Nov 17, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Python,Courses,Deep Learning" data-listing-date-sort="1619733600000" data-listing-file-modified-sort="1676488167025" data-listing-reading-time-sort="0.005">
+<a href="./projects/protein-classification/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/protein-classification/protein-classification.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Protein classification using RNN
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
+Python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Courses'); return false;">
+Courses
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Deep Learning'); return false;">
+Deep Learning
+</div>
+</div>
+<div class="card-text listing-description">
+Protein classification using a biLSTM neural network
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Pablo Mas
+</div>
+<div class="listing-date">
+Apr 30, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
