@@ -13,7 +13,7 @@ website:
     title: '‏ ‏ ‎ Pablo Mas'
     # logo: id-round.png
 
-    right:
+    left:
       - href: index.qmd
         text: Home
       - projects.qmd
