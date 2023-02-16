@@ -1,13 +1,11 @@
 ---
 title: "Neural Art"
-description: "Project for Le Wagon's data science bootcamp, CNN for painting's art style classification. Pitch video is available here"
+description: "Project for Le Wagon's data science bootcamp, CNN for painting's art style classification. Pitch video is available [here](https://youtu.be/pLH2bzZD-C8?t=240)."
 author:
   - name: Pablo Mas
     url: https://github.com/pablo-mas/neural-art
-    github: https://github.com/pablo-mas/neural-art
     # orcid: 0000-0002-5300-3075
     affiliation: Student at Le Wagon 
-    video : https://youtu.be/pLH2bzZD-C8?t=240
 date: 09-01-2021
 categories: [Python, Deep learning, Computer vision] # self-defined categories
 image: neural-art.png

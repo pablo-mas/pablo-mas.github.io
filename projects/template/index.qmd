@@ -15,3 +15,5 @@ image: 500x500.png
 draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+<button class="btn"><i class="fa fa-download"></i> PDF</button>

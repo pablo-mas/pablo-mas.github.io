@@ -6,10 +6,12 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/neural-art/index.html",
       "/projects/graph-topology/index.html",
       "/projects/dreem-kaggle/index.html",
-      "/projects/protein-classification/index.html"
+      "/projects/neural-art/index.html",
+      "/projects/protein-classification/index.html",
+      "/projects/karman-vortex/index.html",
+      "/projects/boltzmann-simulation/index.html"
     ]
   }
 ]

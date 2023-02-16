@@ -1,13 +1,13 @@
 ---
-title: "Brain WSI Graph Topology"
-description: "Extract morphological features from segmented WSI, compute the associated Delaunay graph and extract topological features from it. Paper accepted at SPIE Medical Image 2023 conference."
+title: "Brain graph topology"
+description: "Extract morphological features from segmented WSI (Amyloid-β plaques and Tau protein aggregates), compute the associated Delaunay graph and extract topological features from it. Paper accepted at SPIE Medical Image 2023 conference."
 author:
   - name: Pablo Mas
     url: https://github.com/stratifIAD/graph_topology
     affiliation: Research intern at Inria / ICM (Aramis Lab)
     affiliation-url: https://www.aramislab.fr/
 date: 09-01-2022
-categories: [Python, Computer vision, Neuroscience, Graphs] # self-defined categories
+categories: [Python, Computer vision, Neuroscience, Graphs, Neuroscience] # self-defined categories
 image: graph-topology.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---

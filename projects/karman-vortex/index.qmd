@@ -1,22 +1,22 @@
 ---
-title: "Boltzmann simulation"
-description: "Particle-in-a-box (PIB) simulation written in C with C++ graphics animator. Uses event-driven programming."
+title: "Karman vortex"
+description: "Description"
 author:
   - name: Pablo Mas 
-    url: https://github.com/pablo-mas/
+    url: https://github.com/pablo-mas/boltzmann-simulation
     affiliation: MSc student at ESPCI Paris - PSL
     affiliation-url: https://www.espci.psl.eu/en/
   - name: Jean-Guillaume Brasier
     affiliation: MSc student at ESPCI Paris - PSL
     affiliation-url: https://www.espci.psl.eu/en/
-date: 05-13-2019
-categories: [C, Thermodynamics, University project] # self-defined categories
-image: boltzmann-simulation.png
-filename: cv
+
+date: 05-18-2020
+categories: [Matlab, Fluid mechanics, University project] # self-defined categories
+image: karman-vortex.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-# Boltzmann simulation
+# Karman vortex street
 
 A report is available (in french). 
 
@@ -54,7 +54,7 @@ A report is available (in french).
   }
 </style>
 <button>
-  <a href="c-mas-brasier.pdf" download>
+  <a href="karman-vortex.pdf" download>
     <img src="https://cdn-icons-png.flaticon.com/512/482/482216.png" alt="PDF icon" width="30px">
     PDF
   </a>
@@ -94,8 +94,9 @@ A report is available (in french).
   }
 </style>
 <button>
-  <a href="https://github.com/pablo-mas/boltzmann-simulation"  target="_blank">
+  <a href="https://github.com/pablo-mas/karman-vortex-street"  target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub icon" width="30px">
     Repository
   </a>
 </button>
+

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Pablo Mas",
     "section": "",
-    "text": "Site under construction"
+    "text": "🧪 I am a PhD candidate at ENS Ulm (supervised by Pr. Rodolphe Vuilleumier) and a research scientist at Sanofi (Integrated Drug Design team), working on machine learning applied to drug discovery and theoretical chemistry.\n🧠 I previously interned at INRIA and ICM in the Aramis Lab, working on Graph Neural Network for image segmentation and graph topological feature extraction to classify Alzheimer’s disease patients.\n🧑‍🏫 I teach data science at Le Wagon coding bootcamp and supervise final student projects.\n⛷️ I am a huge ski fan and casual handball player.\n📧 Feel free to contact me to have a chat or a coffee !\n\n 🏗️ This website is still under construction 🏗️"
   },
   {
     "objectID": "posts.html",
@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Neural Art\n\n\n\nPython\n\n\nDeep Learning\n\n\n\nCNN for painting’s art style classification\n\n\n\nPablo Mas\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWSI morphological and graph topological features extraction\n\n\n\nPython\n\n\n\nExtract morphological features from WSI, compute the associated Delaunay graph and extract topological features from it. Presented at SPIE Medical Image 2023 conference.\n\n\n\nPablo Mas\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKaggle challenge : Dreem\n\n\n\nPython\n\n\nCourses\n\n\nKaggle\n\n\n\nDeep learning for sleep stage scoring on EEG signals\n\n\n\nPablo Mas\n\n\nNov 17, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProtein classification using RNN\n\n\n\nPython\n\n\nCourses\n\n\nDeep Learning\n\n\n\nProtein classification using a biLSTM neural network\n\n\n\nPablo Mas\n\n\nApr 30, 2021\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Brain graph topology\n\n\n\nPython\n\n\nComputer vision\n\n\nNeuroscience\n\n\nGraphs\n\n\nNeuroscience\n\n\n\nExtract morphological features from segmented WSI (Amyloid-β plaques and Tau protein aggregates), compute the associated Delaunay graph and extract topological features from…\n\n\n\nPablo Mas\n\n\nSep 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKaggle : Sleep staging\n\n\n\nPython\n\n\nUniversity project\n\n\nKaggle\n\n\nDeep learning\n\n\n\nDeep learning for sleep stage scoring on EEG signals. Competition hosted in partnership with Dreem, a company developing sleep monitoring headbands.\n\n\n\nPablo Mas\n\n\nNov 17, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNeural Art\n\n\n\nPython\n\n\nDeep learning\n\n\nComputer vision\n\n\n\nProject for Le Wagon’s data science bootcamp, CNN for painting’s art style classification. Pitch video is available here.\n\n\n\nPablo Mas\n\n\nSep 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProtein classification\n\n\n\nPython\n\n\nUniversity project\n\n\nDeep learning\n\n\nBioinformatics\n\n\n\nProtein classification using a biLSTM neural network\n\n\n\nPablo Mas\n\n\nMay 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKarman vortex\n\n\n\nMatlab\n\n\nFluid mechanics\n\n\nUniversity project\n\n\n\nDescription\n\n\n\nPablo Mas, Jean-Guillaume Brasier\n\n\nMay 18, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBoltzmann simulation\n\n\n\nC\n\n\nThermodynamics\n\n\nUniversity project\n\n\n\nParticle-in-a-box (PIB) simulation written in C with C++ graphics animator. Uses event-driven programming.\n\n\n\nPablo Mas, Jean-Guillaume Brasier\n\n\nMay 13, 2019\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/projects-1/index.html",
@@ -33,5 +33,19 @@
     "title": "This is a test",
     "section": "",
     "text": "CitationBibTeX citation:@online{mas2023,\n  author = {Pablo Mas},\n  title = {This Is a Test},\n  date = {2023-02-14},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPablo Mas. 2023. “This Is a Test.” February 14, 2023. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
+  },
+  {
+    "objectID": "projects/boltzmann-simulation/index.html",
+    "href": "projects/boltzmann-simulation/index.html",
+    "title": "Boltzmann simulation",
+    "section": "",
+    "text": "Boltzmann simulation\nA report is available (in french).\n\n\n  PDF \n\n\n\n  Repository"
+  },
+  {
+    "objectID": "projects/karman-vortex/index.html",
+    "href": "projects/karman-vortex/index.html",
+    "title": "Karman vortex",
+    "section": "",
+    "text": "Karman vortex street\nA report is available (in french).\n\n\n  PDF \n\n\n\n  Repository"
   }
 ]

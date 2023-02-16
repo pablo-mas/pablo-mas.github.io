@@ -1,15 +1,27 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 4200
 
 website:
   title: "Pablo Mas"
+  favicon: profile.png
+  twitter-card: true
+  site-url: https://pablo-mas.github.io/
   navbar:
-    left:
+    title: '‏ ‏ ‎ Pablo Mas'
+    # logo: id-round.png
+
+    right:
       - href: index.qmd
         text: Home
       - projects.qmd
       - posts.qmd
+      
+theme:
+  light: flatly
+  dark: darkly
 
 format:
   html:

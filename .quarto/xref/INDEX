@@ -40,5 +40,14 @@
   },
   "projects/protein-classification/index.qmd": {
     "index.html": "a85c334e"
+  },
+  "projects/boltzmann-simulation/index.qmd": {
+    "index.html": "aedcb833"
+  },
+  "projects/template/index.qmd": {
+    "index.html": "b9faebb8"
+  },
+  "projects/karman-vortex/index.qmd": {
+    "index.html": "d5fb9296"
   }
 }
