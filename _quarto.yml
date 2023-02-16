@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Pablo Mas"
-  favicon: profile.png
+  favicon: favicon.png
   twitter-card: true
   site-url: https://pablo-mas.github.io/
   navbar:
