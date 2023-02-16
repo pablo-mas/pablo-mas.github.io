@@ -1,0 +1,15 @@
+---
+title: "Boltzmann simulation"
+description: "Particle-in-a-box (PIB) simulation written in C with C++ graphics animator. Uses event-driven programming."
+author:
+  - name: Pablo Mas
+    url: https://github.com/pablo-mas/boltzmann-simulation
+    affiliation: MSc student at ESPCI Paris - PSL
+    affiliation-url: https://www.espci.psl.eu/en/
+date: 05-13-2019
+categories: [C, Thermodynamics, University project] # self-defined categories
+
+image: boltzmann-simulation.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+

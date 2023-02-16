@@ -1,9 +1,10 @@
 ---
-title: "Drug-Protein Interaction"
-description: "Challenge created for PSL's minor data sciences program. The objective is to predict pIC50 value of different drugs on a given protein."
+title: "Title"
+description: "Description"
 author:
   - name: Pablo Mas
-    url: https://github.com/pablo-mas/ChallengePSL
+    url: https://github.com/pablo-mas/...
+    # orcid: 0000-0002-5300-3075
     affiliation: PhD candidate at ENS Ulm
     affiliation-url: https://www.ens.psl.eu/en
 date: 04-01-2023
