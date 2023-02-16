@@ -17,6 +17,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - research.qmd
       - posts.qmd
       
 theme:
