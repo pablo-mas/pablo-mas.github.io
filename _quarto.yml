@@ -11,7 +11,7 @@ website:
   site-url: https://pablo-mas.github.io/
   navbar:
     title: '‏ ‏ ‎ Pablo Mas'
-    # logo: id-round.png
+    # logo: favicon.png
 
     left:
       - href: index.qmd
@@ -20,9 +20,6 @@ website:
       - research.qmd
       - posts.qmd
       
-theme:
-  light: flatly
-  dark: darkly
 
 format:
   html:
