@@ -11,6 +11,8 @@ website:
   site-url: https://pablo-mas.github.io/
   navbar:
     title: '‏ ‏ ‎ Pablo Mas'
+    background: white
+    foreground: black
     # logo: favicon.png
 
     left:
@@ -23,7 +25,9 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: 
+      light: flatly
+      dark: darkly
     mainfont: roboto
     css: styles.css
     toc: true

@@ -16,10 +16,6 @@ filename: cv
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-# Boltzmann simulation
-
-A report is available (in french). 
-
 <style>
   button {
     border: 1px solid black;

@@ -39,7 +39,7 @@
     "href": "projects/boltzmann-simulation/index.html",
     "title": "Boltzmann simulation",
     "section": "",
-    "text": "Boltzmann simulation\nA report is available (in french).\n\n\n  PDF \n\n\n\n  Repository"
+    "text": "PDF \n\n\n\n  Repository"
   },
   {
     "objectID": "projects/karman-vortex/index.html",
@@ -54,5 +54,12 @@
     "title": "Research",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "projects/dreem-kaggle/index.html",
+    "href": "projects/dreem-kaggle/index.html",
+    "title": "Kaggle : Sleep staging",
+    "section": "",
+    "text": "PDF \n\n\n\n  Kaggle"
   }
 ]
