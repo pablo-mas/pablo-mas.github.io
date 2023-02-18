@@ -13,14 +13,14 @@ website:
     title: '‏ ‏ ‎ Pablo Mas'
     background: white
     foreground: black
-    # logo: favicon.png
+    logo: favicon.png
 
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
-      - research.qmd
-      - posts.qmd
+      # - research.qmd
+      # - posts.qmd
       
 
 format:
