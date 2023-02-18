@@ -1,6 +1,6 @@
 ---
 title: "Research"
-listing: 
+listing:
     contents: research
     type: grid
     sort: "date desc"
@@ -10,4 +10,3 @@ listing:
     image-height: "1"
     max-description-length: 175
 ---
-

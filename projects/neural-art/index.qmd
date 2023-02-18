@@ -1,14 +1,54 @@
 ---
 title: "Neural Art"
-description: "Project for Le Wagon's data science bootcamp, CNN for painting's art style classification. Pitch video is available [here](https://youtu.be/pLH2bzZD-C8?t=240)."
+description: "Project for Le Wagon's data science bootcamp, CNN for painting's art style classification."
 author:
   - name: Pablo Mas
     url: https://github.com/pablo-mas/neural-art
-    # orcid: 0000-0002-5300-3075
-    affiliation: Student at Le Wagon 
+    affiliation: Student at Le Wagon
 date: 09-01-2021
 categories: [Python, Deep learning, Computer vision] # self-defined categories
 image: neural-art.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
+
+<style>
+  button {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 20px;
+  }
+  button a {
+    color: black;
+    text-decoration: none;
+    filter: invert(0%);
+    transition: filter 1000000s;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  button a img {
+    margin-right: 8px;
+  }
+  button:hover {
+    background-color: black;
+    border-color: white;
+  }
+  button:hover a {
+    color: white;
+    filter: invert(100%);
+  }
+  button:hover a img {
+    filter: invert(100%);
+  }
+</style>
+<button>
+  <a href="https://youtu.be/pLH2bzZD-C8?t=240"  target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384012.png" alt="YouTube" width="30px">
+    YouTube
+  </a>
+</button>
+
 

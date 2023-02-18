@@ -4,11 +4,10 @@ description: "Extract morphological features from segmented WSI (Amyloid-β plaq
 author:
   - name: Pablo Mas
     url: https://github.com/stratifIAD/graph_topology
-    affiliation: Research intern at Inria / ICM (Aramis Lab)
+    affiliation: Inria / ICM (Aramis Lab)
     affiliation-url: https://www.aramislab.fr/
 date: 09-01-2022
 categories: [Python, Computer vision, Neuroscience, Graphs, Neuroscience] # self-defined categories
 image: graph-topology.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
-
