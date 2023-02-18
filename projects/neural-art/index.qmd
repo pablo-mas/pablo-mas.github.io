@@ -50,5 +50,3 @@ draft: false # setting this to `true` will prevent your post from appearing on y
     YouTube
   </a>
 </button>
-
-

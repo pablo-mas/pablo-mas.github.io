@@ -13,7 +13,7 @@ website:
     title: '‏ ‏ ‎ Pablo Mas'
     background: white
     foreground: black
-    logo: favicon.png
+    logo: favicon.gif
 
     left:
       - href: index.qmd
@@ -21,16 +21,14 @@ website:
       - projects.qmd
       # - research.qmd
       # - posts.qmd
-      
+
 
 format:
   html:
-    theme: 
+    theme:
       light: flatly
       dark: darkly
     mainfont: roboto
     css: styles.css
     toc: true
-
-
-
+    linkcolor: rgb(51, 204, 204)

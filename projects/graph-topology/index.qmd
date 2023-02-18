@@ -10,4 +10,8 @@ date: 09-01-2022
 categories: [Python, Computer vision, Neuroscience, Graphs, Neuroscience] # self-defined categories
 image: graph-topology.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+jupyter: python3
+format:
+  html:
+    code-fold: true
 ---

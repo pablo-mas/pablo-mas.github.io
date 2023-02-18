@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Brain graph topology\n\n\n\nPython\n\n\nComputer vision\n\n\nNeuroscience\n\n\nGraphs\n\n\nNeuroscience\n\n\n\nExtract morphological features from segmented WSI (Amyloid-β plaques and Tau protein aggregates), compute the associated Delaunay graph and extract topological features from…\n\n\n\nPablo Mas\n\n\nSep 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKaggle : Sleep staging\n\n\n\nPython\n\n\nUniversity project\n\n\nKaggle\n\n\nDeep learning\n\n\n\nDeep learning for sleep stage scoring on EEG signals. Competition hosted in partnership with Dreem, a company developing sleep monitoring headbands.\n\n\n\nPablo Mas\n\n\nNov 17, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNeural Art\n\n\n\nPython\n\n\nDeep learning\n\n\nComputer vision\n\n\n\nProject for Le Wagon’s data science bootcamp, CNN for painting’s art style classification. Pitch video is available here.\n\n\n\nPablo Mas\n\n\nSep 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProtein classification\n\n\n\nPython\n\n\nUniversity project\n\n\nDeep learning\n\n\nBioinformatics\n\n\n\nProtein classification using a biLSTM neural network\n\n\n\nPablo Mas\n\n\nMay 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKarman vortex\n\n\n\nMatlab\n\n\nFluid mechanics\n\n\nUniversity project\n\n\n\nDescription\n\n\n\nPablo Mas, Jean-Guillaume Brasier\n\n\nMay 18, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBoltzmann simulation\n\n\n\nC\n\n\nThermodynamics\n\n\nUniversity project\n\n\n\nParticle-in-a-box (PIB) simulation written in C with C++ graphics animator. Uses event-driven programming.\n\n\n\nPablo Mas, Jean-Guillaume Brasier\n\n\nMay 13, 2019\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Brain graph topology\n\n\n\nPython\n\n\nComputer vision\n\n\nNeuroscience\n\n\nGraphs\n\n\nNeuroscience\n\n\n\nExtract morphological features from segmented WSI (Amyloid-β plaques and Tau protein aggregates), compute the associated Delaunay graph and extract topological features from…\n\n\n\nPablo Mas\n\n\nSep 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKaggle : Sleep staging\n\n\n\nPython\n\n\nUniversity project\n\n\nKaggle\n\n\nDeep learning\n\n\n\nDeep learning for sleep stage scoring on EEG signals. Competition hosted in partnership with Dreem, a company developing sleep monitoring headbands.\n\n\n\nPablo Mas\n\n\nNov 17, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNeural Art\n\n\n\nPython\n\n\nDeep learning\n\n\nComputer vision\n\n\n\nProject for Le Wagon’s data science bootcamp, CNN for painting’s art style classification.\n\n\n\nPablo Mas\n\n\nSep 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProtein classification\n\n\n\nPython\n\n\nUniversity project\n\n\nDeep learning\n\n\nBioinformatics\n\n\n\nProtein classification using a biLSTM neural network\n\n\n\nPablo Mas\n\n\nMay 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKarman vortex\n\n\n\nMatlab\n\n\nFluid mechanics\n\n\nUniversity project\n\n\n\nDescription\n\n\n\nPablo Mas, Jean-Guillaume Brasier\n\n\nMay 18, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBoltzmann simulation\n\n\n\nC\n\n\nThermodynamics\n\n\nUniversity project\n\n\n\nParticle-in-a-box (PIB) simulation written in C with C++ graphics animator. Uses event-driven programming.\n\n\n\nPablo Mas, Jean-Guillaume Brasier\n\n\nMay 13, 2019\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/projects-1/index.html",
@@ -39,7 +39,7 @@
     "href": "projects/boltzmann-simulation/index.html",
     "title": "Boltzmann simulation",
     "section": "",
-    "text": "PDF \n\n\n\n  Repository"
+    "text": "PDF  \n\n   Repository"
   },
   {
     "objectID": "projects/karman-vortex/index.html",
@@ -68,5 +68,12 @@
     "title": "Neural Art",
     "section": "",
     "text": "YouTube"
+  },
+  {
+    "objectID": "projects/graph-topology/index.html",
+    "href": "projects/graph-topology/index.html",
+    "title": "Brain graph topology",
+    "section": "",
+    "text": "Code\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'}\n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
   }
 ]
