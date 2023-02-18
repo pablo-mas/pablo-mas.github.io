@@ -1,6 +1,6 @@
 ---
 title: "Pablo Mas"
-image: profile.png
+image: images/profile.png
 resources: cv.pdf
 about:
     template: jolla
@@ -26,18 +26,18 @@ about:
 
 ---
 
-<div style="text-align: justify"> 
+<div style="text-align: justify">
 
 
-🧪 I am a PhD candidate at **ENS Ulm** (supervised by Pr. Rodolphe Vuilleumier) and a research scientist at **Sanofi** (Integrated Drug Design team), working on machine learning applied to drug discovery and theoretical chemistry. 
+🧪 I am a PhD candidate at **ENS Ulm** (supervised by Pr. Rodolphe Vuilleumier) and a research scientist at **Sanofi** (Integrated Drug Design team), working on machine learning applied to drug discovery and theoretical chemistry.
 
-🧠 I previously interned at **INRIA** and **ICM** in the **Aramis Lab**, working on Graph Neural Network for image segmentation and graph topological feature extraction to classify Alzheimer's disease patients. 
+🧠 I previously interned at **INRIA** and **ICM** in the **Aramis Lab**, working on Graph Neural Network for image segmentation and graph topological feature extraction to classify Alzheimer's disease patients.
 
 🧑‍🏫 I teach data science at **Le Wagon** coding bootcamp and supervise final student projects.
 
 ⛷️ I am a huge ski fan and casual handball player.
 
-📧 Feel free to contact me to have a chat or a coffee ! 
+📧 Feel free to contact me to have a chat or a coffee !
 
 </div>
 
@@ -45,5 +45,3 @@ about:
 
 <br>
 **🏗️ This website is still under construction 🏗️**
-
-

@@ -6,14 +6,14 @@ project:
 
 website:
   title: "Pablo Mas"
-  favicon: favicon.png
+  favicon: images/favicon.png
   twitter-card: true
   site-url: https://pablo-mas.github.io/
   navbar:
     title: '‏ ‏ ‎ Pablo Mas'
     background: white
-    foreground: black
-    logo: favicon.gif
+    foreground: rgb(10, 10, 10)
+    logo: images/favicon.png
 
     left:
       - href: index.qmd
@@ -31,4 +31,4 @@ format:
     mainfont: roboto
     css: styles.css
     toc: true
-    linkcolor: rgb(51, 204, 204)
+    linkcolor: rgb(24, 188, 156)
