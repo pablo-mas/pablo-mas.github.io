@@ -16,6 +16,9 @@
   },
   {
     "listing": "/research.html",
-    "items": []
+    "items": [
+      "/research/2023-04-06-metagraph_wsi/index.html",
+      "/research/2023-09-13-batch_AL/index.html"
+    ]
   }
 ]

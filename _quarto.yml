@@ -19,7 +19,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
-      # - research.qmd
+      - research.qmd
       # - posts.qmd
 
 

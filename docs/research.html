@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./favicon.png" rel="icon" type="image/png">
+<link href="./images/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -73,9 +73,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -108,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./favicon.gif" alt="" class="navbar-logo">
+    <img src="./images/favicon.png" alt="" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">‏ ‏ ‎ Pablo Mas</span>
@@ -127,6 +127,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./projects.html">
  <span class="menu-text">Projects</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./research.html" aria-current="page">
+ <span class="menu-text">Research</span></a>
+  </li>  
 </ul>
               <div class="quarto-toggle-container">
                   <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
@@ -142,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Active learning">Active learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Cheminformatics">Cheminformatics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Drug discovery">Drug discovery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Python">Python <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -169,7 +173,67 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1695852099246" data-listing-reading-time-sort="0.865">
+<a href="./research/2023-04-06-metagraph_wsi/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-img-bg" style="height: 1;">
+&nbsp;
+</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Abstract
+</h5>
+<div class="card-text listing-description">
+Recently, high-performance deep learning models have enabled automatic and precise analysis of medical images with high content. In digital histopathology, a challenge lies…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Python,Active learning,Drug discovery,Cheminformatics" data-listing-date-sort="1694556000000" data-listing-file-modified-sort="1695851487916" data-listing-reading-time-sort="0.77">
+<a href="./research/2023-09-13-batch_AL/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./research/2023-09-13-batch_AL/batch_al.jpeg" class="thumbnail-image card-img" style="height: 1;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Deep Batch Active Learning for Drug Discovery
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
+Python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Active learning'); return false;">
+Active learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Drug discovery'); return false;">
+Drug discovery
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Cheminformatics'); return false;">
+Cheminformatics
+</div>
+</div>
+<div class="card-text listing-description">
+A key challenge in drug discovery is to optimize, in silico, various absorption and affinity properties of small molecules. One strategy that was proposed for such…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Michael Bailey, Saeed Moayedpour, Ruijiang Li, Alejandro Corrochano-Navarro, Alexander Kötter, Lorenzo Kogler-Anele, Saleh Riahi, Christoph Grebner, Gerhard Hessler, Hans Matter, Marc Bianciotto, Pablo Mas, Ziv Bar-Joseph, Sven Jager
+</div>
+<div class="listing-date">
+Sep 13, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

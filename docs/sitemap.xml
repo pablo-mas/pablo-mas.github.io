@@ -10,15 +10,15 @@
   </url>
   <url>
     <loc>https://pablo-mas.github.io/index.html</loc>
-    <lastmod>2023-02-18T12:38:50.769Z</lastmod>
+    <lastmod>2023-09-27T21:04:27.016Z</lastmod>
   </url>
   <url>
     <loc>https://pablo-mas.github.io/projects/boltzmann-simulation/index.html</loc>
-    <lastmod>2023-02-18T10:29:32.119Z</lastmod>
+    <lastmod>2023-09-27T21:04:22.396Z</lastmod>
   </url>
   <url>
     <loc>https://pablo-mas.github.io/projects.html</loc>
-    <lastmod>2023-02-18T12:38:50.339Z</lastmod>
+    <lastmod>2023-09-27T22:01:00.626Z</lastmod>
   </url>
   <url>
     <loc>https://pablo-mas.github.io/projects/karman-vortex/index.html</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://pablo-mas.github.io/projects/graph-topology/index.html</loc>
-    <lastmod>2023-02-18T11:19:19.949Z</lastmod>
+    <lastmod>2023-09-27T21:04:25.606Z</lastmod>
   </url>
   <url>
     <loc>https://pablo-mas.github.io/posts.html</loc>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://pablo-mas.github.io/research.html</loc>
-    <lastmod>2023-02-18T11:17:28.639Z</lastmod>
+    <lastmod>2023-09-27T22:01:39.686Z</lastmod>
   </url>
   <url>
     <loc>https://pablo-mas.github.io/projects/dreem-kaggle/index.html</loc>
@@ -42,10 +42,22 @@
   </url>
   <url>
     <loc>https://pablo-mas.github.io/projects/neural-art/index.html</loc>
-    <lastmod>2023-02-18T11:13:05.339Z</lastmod>
+    <lastmod>2023-09-27T21:04:22.566Z</lastmod>
   </url>
   <url>
     <loc>https://pablo-mas.github.io/projects/protein-classification/index.html</loc>
     <lastmod>2023-02-18T09:57:04.709Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pablo-mas.github.io/research/2023-02-13-test-post/index.html</loc>
+    <lastmod>2023-09-27T21:50:22.106Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pablo-mas.github.io/research/2023-09-13-batch_AL/index.html</loc>
+    <lastmod>2023-09-27T21:54:31.206Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pablo-mas.github.io/research/2023-04-06-metagraph_wsi/index.html</loc>
+    <lastmod>2023-09-27T22:01:39.476Z</lastmod>
   </url>
 </urlset>

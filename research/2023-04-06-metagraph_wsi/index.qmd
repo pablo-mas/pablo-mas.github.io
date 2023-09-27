@@ -1,0 +1,41 @@
+---
+title: "A meta-graph approach for analyzing whole slide histopathological images of human brain tissue with Alzheimer's disease biomarkers"
+description: ""
+author:
+  - name: Gabriel Jimenez
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+  - name: Pablo Mas
+    # url: https://samanthacsik.github.io/
+    # orcid: 0000-0002-5300-3075
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+    # affiliation-url: https://ucsb-meds.github.io/ 
+  - name: Anuradha Kar
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+  - name: Julien Peyrache
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+  - name: Lea Ingrassia
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+  - name: Susana Boluda
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+  - name: Benoît Delatour
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+  - name: Lev Stimmer
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+  - name: Daniel Racoceanu
+    affiliation: Sorbonne Université, Institut du Cerveau - Paris Brain Institute - ICM, Inserm, CNRS, APHP Hôpital de la Pitié Saplêtrière, Department of Neuropathology, DMU Neuroscience, Paris, France
+
+
+date: 04-06-2023
+categories: [Python, Computer vision, Neuroscience] # self-defined categories
+citation: 
+  url: https://hal.science/hal-03936684v1/file/SPIE_2023___Meta_graph__abstract_.pdf
+image: 500x500.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Abstract
+<div style="text-align: justify">
+Recently, high-performance deep learning models have enabled automatic and precise analysis of medical images with high content. In digital histopathology, a challenge lies in analyzing Whole Slide Images (WSI) due to their large size, often requiring splitting them into smaller patches for deep learning models. This leads to the loss of global tissue information and limits the classification or clustering of patients based on tissue characteristics.
+
+In this study, we develop a meta-graph approach for semantic spatial analysis of WSI of human brain tissue containing tau protein aggregates, a hallmark of Alzheimer’s disease (AD) in gray matter. Our pipeline extracts morphological features of tau aggregates, such as forming neuritic plaques, and builds a graph based on Delaunay triangulation at the WSI level to extract topological features. This generates morphological and topological data from WSI for patient classification and clustering. We tested this pipeline on a dataset of 15 WSIs from different AD patients. We aim to identify new insights into AD evolution and provide a generic framework for WSI characterization and analysis.
+</div>

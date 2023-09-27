@@ -1,0 +1,48 @@
+---
+title: "Deep Batch Active Learning for Drug Discovery"
+description: ""
+author:
+  - name: Michael Bailey
+    affiliation: R&D Data & Computational Science, Sanofi, Cambridge, MA, United States
+  - name: Saeed Moayedpour
+    affiliation: R&D Data & Computational Science, Sanofi, Cambridge, MA, United States
+  - name: Ruijiang Li
+    affiliation: R&D Data & Computational Science, Sanofi, Cambridge, MA, United States
+  - name: Alejandro Corrochano-Navarro
+    affiliation: R&D Data & Computational Science, Sanofi, Cambridge, MA, United States
+  - name: Alexander Kötter
+    affiliation: Synthetic Molecular Design, Integrated Drug Discovery, Sanofi-Aventis Deutschland GmbH, Industriepark Höchst, Building G838, 65926 Frankfurt am Main, Germany
+  - name: Lorenzo Kogler-Anele
+    affiliation: R&D Data & Computational Science, Sanofi, Cambridge, MA, United States
+  - name: Saleh Riahi
+    affiliation: R&D Data & Computational Science, Sanofi, Cambridge, MA, United States
+  - name: Christoph Grebner
+    affiliation: Synthetic Molecular Design, Integrated Drug Discovery, Sanofi-Aventis Deutschland GmbH, Industriepark Höchst, Building G838, 65926 Frankfurt am Main, Germany
+  - name: Gerhard Hessler
+    affiliation: Synthetic Molecular Design, Integrated Drug Discovery, Sanofi-Aventis Deutschland GmbH, Industriepark Höchst, Building G838, 65926 Frankfurt am Main, Germany
+  - name: Hans Matter
+    affiliation: Synthetic Molecular Design, Integrated Drug Discovery, Sanofi-Aventis Deutschland GmbH, Industriepark Höchst, Building G838, 65926 Frankfurt am Main, Germany
+  - name: Marc Bianciotto
+    affiliation: Molecular Design Sciences, Integrated Drug Discovery, Sanofi, Vitry-sur-Seine, 94403, France
+  - name: Pablo Mas
+    # url: https://samanthacsik.github.io/
+    # orcid: 0000-0002-5300-3075
+    affiliation: Molecular Design Sciences, Integrated Drug Discovery, Sanofi, Vitry-sur-Seine, 94403, France
+    affiliation-url: https://ucsb-meds.github.io/ 
+  - name: Ziv Bar-Joseph
+    affiliation: R&D Data & Computational Science, Sanofi, Cambridge, MA, United States
+  - name: Sven Jager
+    affiliation: R&D Data & Computational Science, Sanofi, Cambridge, MA, United States
+
+date: 09-13-2023
+categories: [Python, Active learning, Drug discovery, Cheminformatics] # self-defined categories
+citation: 
+  url: https://elifesciences.org/reviewed-preprints/89679
+image: batch_al.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Abstract
+<div style="text-align: justify">
+A key challenge in drug discovery is to optimize, in silico, various absorption and affinity properties of small molecules. One strategy that was proposed for such optimization process is active learning. In active learning molecules are selected for testing based on their likelihood of improving model performance. To enable the use of active learning with advanced neural network models we developed two novel active learning batch selection methods. These methods were tested on several public datasets for different optimization goals and with different sizes. We have also curated new affinity datasets that provide chronological information on state-of-the-art experimental strategy. As we show, for all datasets the new active learning methods greatly improved on existing and current batch selection methods leading to significant potential saving in the number of experiments needed to reach the same model performance. Our methods are general and can be used with any package including the popular DeepChem library.
+</div>
