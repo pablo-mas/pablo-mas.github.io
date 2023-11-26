@@ -29,7 +29,7 @@ date: 04-06-2023
 categories: [Python, Computer vision, Neuroscience] # self-defined categories
 citation: 
   url: https://hal.science/hal-03936684v1/file/SPIE_2023___Meta_graph__abstract_.pdf
-image: 500x500.png
+image: graph_example.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
