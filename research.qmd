@@ -1,0 +1,48 @@
+---
+title: "Research"
+format:
+  html:
+    toc: true
+    toc-title: "Research"
+    number-sections: false
+---
+
+My current research focuses on optimizing the lead optimization phase using efficient exploitation / exploration trade-off strategies. 
+
+# Publications
+
+**Harnessing Medicinal Chemical Intuition from Collective Intelligence**  
+*Gkeka, P.; Llompart, P.; Amaning, K.; Bianciotto, M.; Filoche-Romme, B.; Foricher, Y.; **Mas, P.**; Papin, D.; Rameau, J.-P.; Schio, L.; Marcou, G.; Varnek, A.; Moussaid, M.*  
+*Under review*  
+
+**Deep Batch Active Learning for Drug Discovery**  
+*Bailey, M.; Moayedpour, S.; Li, R.; Corrochano-Navarro, A.; Kötter, A.; Kogler-Anele, L.; Riahi, S.; Grebner, C.; Hessler, G.; Matter, H.; Bianciotto, M.; **Mas, P.**; Bar-Joseph, Z.; Jager, S.*  
+*eLife, 2024*  
+*doi.org/10.7554/elife.89679.2.*  
+
+**Many-Shot In-Context Learning for Molecular Inverse Design**  
+*Moayedpour, S.; Corrochano-Navarro, A.; Sahneh, F.; Noroozizadeh, S.; Koetter, A.; Vymetal, J.; Kogler-Anele, L.; **Mas, P.**; Jangjou, Y.; Li, S.; Bailey, M.; Bianciotto, M.; Matter, H.; Grebner, C.; Hessler, G.; Bar-Joseph, Z.; Jager, S.*  
+*arXiv, 2024*  
+*doi.org/10.1117/12.2657475.*
+
+**A Meta-Graph Approach for Analyzing Whole Slide Histopathological Images of Human Brain Tissue with Alzheimer’s Disease Biomarkers**  
+*Jimenez, G.; **Mas, P.**; Kar, A.; Peyrache, J.; Ingrassia, L.; Boluda, S.; Delatour, B.; Stimmer, L.; Racoceanu, D.*
+*Medical Imaging 2023: Digital and Computational Pathology, 2023*  
+*doi.org/10.1117/12.2657475.*
+
+# Conferences
+
+**EuroQSAR 2024**  
+*09/2024  |  Barcelona, Spain*  
+
+**CS3 - Strasbourg Summer School in Cheminformatics**  
+*06/2023  |  Strasbourg, France*  
+
+**MLSS - Machine Learning Summer School**  
+*03/2024  |  Okinawa, Japan*  
+
+**6th Artificial Intelligence in Chemistry Symposium**  
+*09/2023  |  Cambridge, UK*  
+
+**GGMM - Young Modellers Conference**  
+*05/2023  |  Toulouse, France*  

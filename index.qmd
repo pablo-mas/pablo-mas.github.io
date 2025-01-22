@@ -1,0 +1,45 @@
+---
+title: "Pablo Mas"
+image: img/profile.png
+resources: cv.pdf
+about:
+    template: jolla
+    image-shape: round
+    image-width: 12em
+    links:
+        -   text: Email
+            icon: envelope
+            href: mailto:pablovn.mas@gmail.com
+        -   text: GitHub
+            icon: github
+            href: https://github.com/pablo-mas
+        -   text: LinkedIn
+            icon: linkedin
+            href: https://www.linkedin.com/in/pablo-mas/
+        -   text: CV
+            icon: file-text
+            href: cv.pdf
+    id: ppc
+
+---
+
+<div style="text-align: justify">
+
+
+🧪 PhD candidate at **ENS Ulm** and a research scientist at **Sanofi** (Integrated Drug Discovery), working on exploring and exploiting the chemical space during lead optimization
+
+🧑‍🏫 Teaching data science at **Le Wagon** coding bootcamp and supervise final student projects
+
+🎓  Background in physics and chemistry from ESPCI Paris - PSL
+
+⛷️ Ski, squash and handball enthusiast
+
+📧 Feel free to contact me to have a chat or a coffee !
+
+</div>
+
+
+
+<br>
+<!-- **🏗️ This website is still under construction 🏗️** -->
+
