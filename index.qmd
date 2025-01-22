@@ -1,3 +1,12 @@
+include-in-header: |
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('a').forEach(function(link) {
+        link.setAttribute('target', '_blank');
+      });
+    });
+  </script>
+
 ---
 title: "Pablo Mas"
 image: img/profile.png
@@ -17,7 +26,6 @@ about:
             icon: linkedin
             href: https://www.linkedin.com/in/pablo-mas/
     id: ppc
-
 ---
 
 <div style="text-align: justify">
