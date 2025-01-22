@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 1337
+
+
+website:
+  title: pablo-mas.github.io
+  favicon: img/favicon.png
+  site-url: https://pablo-mas.github.io/
+  navbar:
+    title: Pablo Mas
+    background: white
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      # - href: projects.qmd
+      #   text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+  sidebar: true
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    font:
+      heading: lato
+      base: lato
+    toc: true
+    linkcolor: rgb(24, 188, 156)
+
+
+

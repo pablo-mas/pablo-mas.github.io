@@ -1,0 +1,52 @@
+---
+title: "Resume"
+format:
+  html:
+    toc: true
+    toc-title: "CV"
+    number-sections: false
+---
+
+<div style="text-align: justify">*PhD candidate specialized in machine learning for drug discovery, with an emphasis on improving exploration and exploitation
+during lead optimization. Conducting my research within the Theoretical Chemistry Group at ENS-PSL and the Integrated Drug
+Discovery team at Sanofi. I am also pursuing an MBA at the Collège des Ingénieurs and teaching at ENS-PSL and Le Wagon bootcamp.*</div>  
+
+<br>
+
+## Education
+
+#### **Doctor of Philosophy - PhD** <span style="float: right; font-size: medium;">10/2022 -- Present</span>
+###### *École Normale Supérieure (ENS Ulm)*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify">Conducted research on machine learning applications in drug discovery and theoretical chemistry, in collaboration with Sanofi.
+Under the supervision of Pr. Rodolphe Vuilleumier (ENS) and Dr. Marc Bianciotto (Sanofi).</div>  
+
+#### **Master of Business Administration - MBA** <span style="float: right; font-size: medium;">01/2023 -- Present</span>
+###### *Collège des Ingénieurs (CDI Paris)*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify">Selective MBA program designed for top graduates from leading French Engineering Schools.</div>  
+
+#### **Master of Science - MSc** <span style="float: right; font-size: medium;">09/2021 -- 09/2022</span>
+###### *BME Paris - PSL University*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify">Relevant courses: Deep learning and neurosciences - Deep learning and neurocomputational projects - Quantification for
+Neuroimaging - Machine Learning for Bioimaging</div>  
+
+#### **Master of Science ("Diplôme d’ingénieur") - MSc** <span style="float: right; font-size: medium;">09/2018 -- 09/2021</span>
+###### *ESPCI Paris*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify">Biotechnology specialization (3rd year): Systems biology and neurobiology - Biochemistry and molecular biotechnology - Deep
+learning - Statistical learning - Advanced analytical chemistry</div>  
+
+#### **Bachelor of Science - BSc** <span style="float: right; font-size: medium;">09/2016 -- 09/2018</span>
+###### *Sorbonne University*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify">Dual bachelor’s degree with majors in physics and chemistry.</div>  
+
+
+## Experience
+
+## Publications
+
+## Conferences
+
+## Teaching
+
+## Skills
+
+## Extracurricular activities
