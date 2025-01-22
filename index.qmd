@@ -16,9 +16,6 @@ about:
         -   text: LinkedIn
             icon: linkedin
             href: https://www.linkedin.com/in/pablo-mas/
-        -   text: CV
-            icon: file-text
-            href: cv.pdf
     id: ppc
 
 ---
