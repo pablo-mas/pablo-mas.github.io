@@ -9,7 +9,7 @@ format:
 
 My current research focuses on improving the lead optimization phase by developing rational exploitation / exploration strategies based on active learning.
 
-# Publications
+## Publications
 
 **Harnessing Medicinal Chemical Intuition from Collective Intelligence**  
 *Gkeka, P.; Llompart, P.; Amaning, K.; Bianciotto, M.; Filoche-Romme, B.; Foricher, Y.; **Mas, P.**; Papin, D.; Rameau, J.-P.; Schio, L.; Marcou, G.; Varnek, A.; Moussaid, M.*  
@@ -30,7 +30,7 @@ My current research focuses on improving the lead optimization phase by developi
 *Medical Imaging 2023: Digital and Computational Pathology, 2023*  
 *doi.org/10.1117/12.2657475.*
 
-# Conferences
+## Conferences
 
 **EuroQSAR 2024**  
 *09/2024  |  Barcelona, Spain*  
