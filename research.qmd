@@ -7,7 +7,7 @@ format:
     number-sections: false
 ---
 
-My current research focuses on optimizing the lead optimization phase using efficient exploitation / exploration trade-off strategies. 
+My current research focuses on improving the lead optimization phase by developing rational exploitation / exploration strategies based on active learning.
 
 # Publications
 
