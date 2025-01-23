@@ -1,11 +1,3 @@
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    document.querySelectorAll('a').forEach(function(link) {
-    link.setAttribute('target', '_blank');
-    });
-});
-</script>
-
 ---
 title: "Pablo Mas"
 image: img/profile.png
@@ -30,7 +22,7 @@ about:
 <div style="text-align: justify">
 
 
-🧪 PhD candidate at **ENS Ulm** and a research scientist at **Sanofi** (Integrated Drug Discovery), working on exploring and exploiting the chemical space during lead optimization
+🧪 PhD candidate at **ENS Ulm** and research scientist at **Sanofi** (Integrated Drug Discovery), working on exploring and exploiting the chemical space during lead optimization
 
 🧑‍🏫 Teaching data science at **Le Wagon** coding bootcamp and supervise final student projects
 
@@ -38,12 +30,6 @@ about:
 
 ⛷️ Ski, squash and handball enthusiast
 
-📧 Feel free to contact me to have a chat or a coffee !
+📧 Feel free to contact me to have a chat or coffee !
 
 </div>
-
-
-
-<br>
-<!-- **🏗️ This website is still under construction 🏗️** -->
-

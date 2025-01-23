@@ -41,12 +41,60 @@ learning - Statistical learning - Advanced analytical chemistry</div>
 
 ## Experience
 
-## Publications
+#### **Research scientist (CIFRE PhD)** <span style="float: right; font-size: medium;">10/2022 -- Present</span>
+###### *Sanofi*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
+- Developed rational exploration and exploitation strategies for molecule prioritization during the lead optimization phase,
+supported by a comprehensive toolkit for medicinal chemists.
+- Simulated active-learning based selection scenarios on legacy drug discovery projects.
+- Developed QSAR/QSPR models in low and high data regimes.
+</div>  
 
-## Conferences
+#### **Research intern** <span style="float: right; font-size: medium;">02/2022 -- 09/2022</span>
+###### *Aramis LAB (INRIA & Paris Brain Institute)*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
+- Developed deep learning algorithms using graph neural networks for automated segmentation of peptide accumulation in
+whole-slide images, enabling improved stratification of Alzheimer’s disease patients.
+</div>  
 
-## Teaching
+#### **Research intern** <span style="float: right; font-size: medium;">04/2021 -- 08/2021</span>
+###### *LSABM (ESPCI Paris - PSL)*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
+- Developed a LC-MS method to detect mustard gas-modified DNA traces in biological samples, in collaboration with the French
+Defence Procurement Agency.
+</div>
+
+#### **Analytical scientist intern** <span style="float: right; font-size: medium;">07/2020 -- 12/2020</span>
+###### *Adocia*  <span style="float: right; font-size: medium;">Lyon, France</span>
+<div style="text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
+- Developed and characterized (via HPLC and NMR) a protective hydrogel for islets of Langerhans (beta cells) as part of a cell
+therapy project aimed at creating an artificial pancreas.
+</div>
+
+#### **Research intern** <span style="float: right; font-size: medium;">06/2018 -- 08/2018</span>
+###### *Phenix Lab (CNRS)*  <span style="float: right; font-size: medium;">Paris, France</span>
+<div style="text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
+- Investigated water dynamics in 15th-century paintings through NMR relaxometry, X-ray, and IR spectroscopy.
+</div>
+
+#### **Data analyst intern** <span style="float: right; font-size: medium;">05/2017 -- 08/2017</span>
+###### *Development Alternatives Incorporated*  <span style="float: right; font-size: medium;">Washington DC, USA</span>
+<div style="text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
+- Developed data visualization dashboards and contributed to a report for the Aspen Institute : “A Global Opportunity: Get Youth
+Working”.
+</div>
 
 ## Skills
+<div style="text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
+**Tools** <span style="float: right; font-size: medium;">Python (scikit-learn, PyTorch, Tensorflow, RDKit, deepchem...), Git, AWS, Matlab, SQL</span>
+
+**Communication** <span style="float: right; font-size: medium;">French (native), English (fluent - C1 level), Spanish (intermediate - B1 level)</span>
+</div>
+
 
 ## Extracurricular activities
+<div style="text-align: justify; line-height: 1.5; margin-top: 0; margin-bottom: 0;">
+- Treasurer of the ESPCI Paris – PSL student’s office, in charge of a 150 000€ budget.
+- External Relations Officer of the ESPCI Paris – PSL sports union.
+- **Sports**: Handball (15 years, two-time high-school champion of Morocco), Diving (PADI 2), Skiing, Squash.
+</div> 
