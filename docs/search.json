@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pablo Mas",
-    "section": "",
-    "text": "🧪 PhD candidate at ENS Ulm and research scientist at Sanofi (Integrated Drug Discovery), working on exploring and exploiting the chemical space during lead optimization\n🧑‍🏫 Teaching data science at Le Wagon coding bootcamp and supervise final student projects\n🎓 Background in physics and chemistry from ESPCI Paris - PSL\n⛷️ Ski, squash and handball enthusiast\n📧 Feel free to contact me to have a chat or coffee !"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -26,41 +12,6 @@
     "title": "Resume",
     "section": "",
     "text": "PhD candidate specialized in machine learning for drug discovery, with an emphasis on improving exploration and exploitation during lead optimization. Conducting my research within the Theoretical Chemistry Group at ENS-PSL and the Integrated Drug Discovery team at Sanofi. I am also pursuing an MBA at the Collège des Ingénieurs and teaching at ENS-PSL and Le Wagon bootcamp."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Challenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform.\n\n\n \n\n\n\n\nChallenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform."
-  },
-  {
-    "objectID": "teaching.html#admet-property-prediction-for-drug-discovery",
-    "href": "teaching.html#admet-property-prediction-for-drug-discovery",
-    "title": "Teaching",
-    "section": "",
-    "text": "Challenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform."
-  },
-  {
-    "objectID": "teaching.html#challenge-data---ens",
-    "href": "teaching.html#challenge-data---ens",
-    "title": "Teaching",
-    "section": "",
-    "text": "Challenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform.\n\n\n \n\n\n\n\nChallenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform."
-  },
-  {
-    "objectID": "teaching.html#le-wagon---data-science",
-    "href": "teaching.html#le-wagon---data-science",
-    "title": "Teaching",
-    "section": "Le Wagon - Data Science",
-    "text": "Le Wagon - Data Science\nTeaching and supervising final projects.\n- Machine learning\n- Deep Learning\n- ML Engineering\n- Supervising projects"
-  },
-  {
-    "objectID": "teaching.html#le-wagon---data-science-ai",
-    "href": "teaching.html#le-wagon---data-science-ai",
-    "title": "Teaching",
-    "section": "Le Wagon - Data Science & AI",
-    "text": "Le Wagon - Data Science & AI\nTeaching (machine learning, deep learning, ML engineering) and supervising final projects."
   },
   {
     "objectID": "cv.html#education",
@@ -77,34 +28,6 @@
     "text": "Experience\n\nResearch scientist (CIFRE PhD) 10/2022 – Present\n\nSanofi Paris, France\n\n\nDeveloped rational exploration and exploitation strategies for molecule prioritization during the lead optimization phase, supported by a comprehensive toolkit for medicinal chemists.\nSimulated active-learning based selection scenarios on legacy drug discovery projects.\nDeveloped QSAR/QSPR models in low and high data regimes.\n\n\n\n\n\nResearch intern 02/2022 – 09/2022\n\nAramis LAB (INRIA & Paris Brain Institute) Paris, France\n\n\nDeveloped deep learning algorithms using graph neural networks for automated segmentation of peptide accumulation in whole-slide images, enabling improved stratification of Alzheimer’s disease patients.\n\n\n\n\n\nResearch intern 04/2021 – 08/2021\n\nLSABM (ESPCI Paris - PSL) Paris, France\n\n\nDeveloped a LC-MS method to detect mustard gas-modified DNA traces in biological samples, in collaboration with the French Defence Procurement Agency.\n\n\n\n\n\nAnalytical scientist intern 07/2020 – 12/2020\n\nAdocia Lyon, France\n\n\nDeveloped and characterized (via HPLC and NMR) a protective hydrogel for islets of Langerhans (beta cells) as part of a cell therapy project aimed at creating an artificial pancreas.\n\n\n\n\n\nResearch intern 06/2018 – 08/2018\n\nPhenix Lab (CNRS) Paris, France\n\n\nInvestigated water dynamics in 15th-century paintings through NMR relaxometry, X-ray, and IR spectroscopy.\n\n\n\n\n\nData analyst intern 05/2017 – 08/2017\n\nDevelopment Alternatives Incorporated Washington DC, USA\n\n\nDeveloped data visualization dashboards and contributed to a report for the Aspen Institute : “A Global Opportunity: Get Youth Working”."
   },
   {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "Resume",
-    "section": "Publications",
-    "text": "Publications"
-  },
-  {
-    "objectID": "cv.html#conferenc",
-    "href": "cv.html#conferenc",
-    "title": "Resume",
-    "section": "Conferenc",
-    "text": "Conferenc"
-  },
-  {
-    "objectID": "cv.html#conferences",
-    "href": "cv.html#conferences",
-    "title": "Resume",
-    "section": "Conferences",
-    "text": "Conferences"
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "Resume",
-    "section": "Teaching",
-    "text": "Teaching"
-  },
-  {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
     "title": "Resume",
@@ -117,5 +40,33 @@
     "title": "Resume",
     "section": "Extracurricular activities",
     "text": "Extracurricular activities\n\n\nTreasurer of the ESPCI Paris – PSL student’s office, in charge of a 150 000€ budget.\nExternal Relations Officer of the ESPCI Paris – PSL sports union.\nSports: Handball (15 years, two-time high-school champion of Morocco), Diving (PADI 2), Skiing, Squash."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Challenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform.\n\n\n \n\n\n\n\nChallenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform."
+  },
+  {
+    "objectID": "teaching.html#challenge-data---ens",
+    "href": "teaching.html#challenge-data---ens",
+    "title": "Teaching",
+    "section": "",
+    "text": "Challenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform.\n\n\n \n\n\n\n\nChallenge designed for graduate students of the Chemistry Department of ENS - PSL, but available for everyone on the Challenge Data platform."
+  },
+  {
+    "objectID": "teaching.html#le-wagon---data-science-ai",
+    "href": "teaching.html#le-wagon---data-science-ai",
+    "title": "Teaching",
+    "section": "Le Wagon - Data Science & AI",
+    "text": "Le Wagon - Data Science & AI\nTeaching (machine learning, deep learning, ML engineering) and supervising final projects."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pablo Mas",
+    "section": "",
+    "text": "🧪 PhD candidate at ENS Ulm and research scientist at Sanofi (Integrated Drug Discovery), working on exploring and exploiting the chemical space during lead optimization\n🧑‍🏫 Teaching data science at Le Wagon coding bootcamp and supervise final student projects\n🎓 Background in physics and chemistry from ESPCI Paris - PSL\n⛷️ Ski, squash and handball enthusiast\n📧 Feel free to contact me to have a chat or coffee !"
   }
 ]
