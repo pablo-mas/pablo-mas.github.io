@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Pablo Mas",
     "section": "",
-    "text": "🧪 PhD candidate at ENS Ulm and a research scientist at Sanofi (Integrated Drug Discovery), working on exploring and exploiting the chemical space during lead optimization\n🧑‍🏫 Teaching data science at Le Wagon coding bootcamp and supervise final student projects\n🎓 Background in physics and chemistry from ESPCI Paris - PSL\n⛷️ Ski, squash and handball enthusiast\n📧 Feel free to contact me to have a chat or a coffee !"
+    "text": "🧪 PhD candidate at ENS Ulm and research scientist at Sanofi (Integrated Drug Discovery), working on exploring and exploiting the chemical space during lead optimization\n🧑‍🏫 Teaching data science at Le Wagon coding bootcamp and supervise final student projects\n🎓 Background in physics and chemistry from ESPCI Paris - PSL\n⛷️ Ski, squash and handball enthusiast\n📧 Feel free to contact me to have a chat or coffee !"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My current research focuses on optimizing the lead optimization phase using efficient exploitation / exploration trade-off strategies.\n\nPublications\nHarnessing Medicinal Chemical Intuition from Collective Intelligence\nGkeka, P.; Llompart, P.; Amaning, K.; Bianciotto, M.; Filoche-Romme, B.; Foricher, Y.; Mas, P.; Papin, D.; Rameau, J.-P.; Schio, L.; Marcou, G.; Varnek, A.; Moussaid, M.\nUnder review\nDeep Batch Active Learning for Drug Discovery\nBailey, M.; Moayedpour, S.; Li, R.; Corrochano-Navarro, A.; Kötter, A.; Kogler-Anele, L.; Riahi, S.; Grebner, C.; Hessler, G.; Matter, H.; Bianciotto, M.; Mas, P.; Bar-Joseph, Z.; Jager, S.\neLife, 2024\ndoi.org/10.7554/elife.89679.2.\nMany-Shot In-Context Learning for Molecular Inverse Design\nMoayedpour, S.; Corrochano-Navarro, A.; Sahneh, F.; Noroozizadeh, S.; Koetter, A.; Vymetal, J.; Kogler-Anele, L.; Mas, P.; Jangjou, Y.; Li, S.; Bailey, M.; Bianciotto, M.; Matter, H.; Grebner, C.; Hessler, G.; Bar-Joseph, Z.; Jager, S.\narXiv, 2024\ndoi.org/10.1117/12.2657475.\nA Meta-Graph Approach for Analyzing Whole Slide Histopathological Images of Human Brain Tissue with Alzheimer’s Disease Biomarkers\nJimenez, G.; Mas, P.; Kar, A.; Peyrache, J.; Ingrassia, L.; Boluda, S.; Delatour, B.; Stimmer, L.; Racoceanu, D. Medical Imaging 2023: Digital and Computational Pathology, 2023\ndoi.org/10.1117/12.2657475.\n\n\nConferences\nEuroQSAR 2024\n09/2024 | Barcelona, Spain\nCS3 - Strasbourg Summer School in Cheminformatics\n06/2023 | Strasbourg, France\nMLSS - Machine Learning Summer School\n03/2024 | Okinawa, Japan\n6th Artificial Intelligence in Chemistry Symposium\n09/2023 | Cambridge, UK\nGGMM - Young Modellers Conference\n05/2023 | Toulouse, France"
+    "text": "My current research focuses on improving the lead optimization phase by developing rational exploitation / exploration strategies based on active learning.\n\nPublications\nHarnessing Medicinal Chemical Intuition from Collective Intelligence\nGkeka, P.; Llompart, P.; Amaning, K.; Bianciotto, M.; Filoche-Romme, B.; Foricher, Y.; Mas, P.; Papin, D.; Rameau, J.-P.; Schio, L.; Marcou, G.; Varnek, A.; Moussaid, M.\nUnder review\nDeep Batch Active Learning for Drug Discovery\nBailey, M.; Moayedpour, S.; Li, R.; Corrochano-Navarro, A.; Kötter, A.; Kogler-Anele, L.; Riahi, S.; Grebner, C.; Hessler, G.; Matter, H.; Bianciotto, M.; Mas, P.; Bar-Joseph, Z.; Jager, S.\neLife, 2024\ndoi.org/10.7554/elife.89679.2.\nMany-Shot In-Context Learning for Molecular Inverse Design\nMoayedpour, S.; Corrochano-Navarro, A.; Sahneh, F.; Noroozizadeh, S.; Koetter, A.; Vymetal, J.; Kogler-Anele, L.; Mas, P.; Jangjou, Y.; Li, S.; Bailey, M.; Bianciotto, M.; Matter, H.; Grebner, C.; Hessler, G.; Bar-Joseph, Z.; Jager, S.\narXiv, 2024\ndoi.org/10.1117/12.2657475.\nA Meta-Graph Approach for Analyzing Whole Slide Histopathological Images of Human Brain Tissue with Alzheimer’s Disease Biomarkers\nJimenez, G.; Mas, P.; Kar, A.; Peyrache, J.; Ingrassia, L.; Boluda, S.; Delatour, B.; Stimmer, L.; Racoceanu, D. Medical Imaging 2023: Digital and Computational Pathology, 2023\ndoi.org/10.1117/12.2657475.\n\n\nConferences\nEuroQSAR 2024\n09/2024 | Barcelona, Spain\nCS3 - Strasbourg Summer School in Cheminformatics\n06/2023 | Strasbourg, France\nMLSS - Machine Learning Summer School\n03/2024 | Okinawa, Japan\n6th Artificial Intelligence in Chemistry Symposium\n09/2023 | Cambridge, UK\nGGMM - Young Modellers Conference\n05/2023 | Toulouse, France"
   },
   {
     "objectID": "cv.html",
@@ -74,7 +74,7 @@
     "href": "cv.html#experience",
     "title": "Resume",
     "section": "Experience",
-    "text": "Experience"
+    "text": "Experience\n\nResearch scientist (CIFRE PhD) 10/2022 – Present\n\nSanofi Paris, France\n\n\nDeveloped rational exploration and exploitation strategies for molecule prioritization during the lead optimization phase, supported by a comprehensive toolkit for medicinal chemists.\nSimulated active-learning based selection scenarios on legacy drug discovery projects.\nDeveloped QSAR/QSPR models in low and high data regimes.\n\n\n\n\n\nResearch intern 02/2022 – 09/2022\n\nAramis LAB (INRIA & Paris Brain Institute) Paris, France\n\n\nDeveloped deep learning algorithms using graph neural networks for automated segmentation of peptide accumulation in whole-slide images, enabling improved stratification of Alzheimer’s disease patients.\n\n\n\n\n\nResearch intern 04/2021 – 08/2021\n\nLSABM (ESPCI Paris - PSL) Paris, France\n\n\nDeveloped a LC-MS method to detect mustard gas-modified DNA traces in biological samples, in collaboration with the French Defence Procurement Agency.\n\n\n\n\n\nAnalytical scientist intern 07/2020 – 12/2020\n\nAdocia Lyon, France\n\n\nDeveloped and characterized (via HPLC and NMR) a protective hydrogel for islets of Langerhans (beta cells) as part of a cell therapy project aimed at creating an artificial pancreas.\n\n\n\n\n\nResearch intern 06/2018 – 08/2018\n\nPhenix Lab (CNRS) Paris, France\n\n\nInvestigated water dynamics in 15th-century paintings through NMR relaxometry, X-ray, and IR spectroscopy.\n\n\n\n\n\nData analyst intern 05/2017 – 08/2017\n\nDevelopment Alternatives Incorporated Washington DC, USA\n\n\nDeveloped data visualization dashboards and contributed to a report for the Aspen Institute : “A Global Opportunity: Get Youth Working”."
   },
   {
     "objectID": "cv.html#publications",
@@ -109,13 +109,13 @@
     "href": "cv.html#skills",
     "title": "Resume",
     "section": "Skills",
-    "text": "Skills"
+    "text": "Skills\n\nTools Python (scikit-learn, PyTorch, Tensorflow, RDKit, deepchem…), Git, AWS, Matlab, SQL\nCommunication French (native), English (fluent - C1 level), Spanish (intermediate - B1 level)"
   },
   {
     "objectID": "cv.html#extracurricular-activities",
     "href": "cv.html#extracurricular-activities",
     "title": "Resume",
     "section": "Extracurricular activities",
-    "text": "Extracurricular activities"
+    "text": "Extracurricular activities\n\n\nTreasurer of the ESPCI Paris – PSL student’s office, in charge of a 150 000€ budget.\nExternal Relations Officer of the ESPCI Paris – PSL sports union.\nSports: Handball (15 years, two-time high-school champion of Morocco), Diving (PADI 2), Skiing, Squash."
   }
 ]
